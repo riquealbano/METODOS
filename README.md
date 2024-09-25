@@ -26,4 +26,4 @@ IDE Eclipse
 
 ## ✒️ Autores
 
-**Henrique Serafim Albano** - *Código inicial* - Etapa 1
+**Henrique Serafim Albano** - *Código inicial* - Etapa 2
